@@ -1,0 +1,49 @@
+{
+    "DefaultServerUrl": "https://edoctor.chat",
+    "TestServerUrl": "https://dev.edoctor.chat",
+    "DefaultTheme": "default",
+    "ShowErrorsList": false,
+    "MinServerVersion": "4.0.0",
+    "EELearnURL": "https://edoctor.io",
+    "TeamEditionLearnURL": "https://edoctor.io",
+    "AboutTeamURL": "https://edoctor.io",
+    "AboutEnterpriseURL": "https://edoctor.io",
+    "PlatformNoticeURL": "https://edoctor.io",
+    "MobileNoticeURL": "https://edoctor.io",
+    "SegmentApiKey": "",
+
+    "HideEmailLoginExperimental": false,
+    "HideGitLabLoginExperimental": false,
+    "HideLDAPLoginExperimental": false,
+    "HideSAMLLoginExperimental": false,
+    "HideO365LoginExperimental": false,
+
+    "SentryEnabled": false,
+    "SentryDsnIos": "",
+    "SentryDsnAndroid": "",
+    "SentryOptions": {
+        "deactivateStacktraceMerging": true,
+        "autoBreadcrumbs": {
+            "xhr": false,
+            "console": true
+        }
+    },
+
+    "ExperimentalNormalizeMarkdownLinks": false,
+
+    "AutoSelectServerUrl": true,
+
+    "EnableMobileClientUpgrade": false,
+    "EnableMobileClientUpgradeUserSetting": false,
+    "EnableForceMobileClientUpgrade": false,
+    "MobileClientUpgradeAndroidApkLink": "https://about.mattermost.com/mattermost-android-app/",
+    "MobileClientUpgradeIosIpaLink": "https://about.mattermost.com/mattermost-ios-app/",
+
+    "ShowSentryDebugOptions": false,
+
+    "CustomRequestHeaders": {},
+
+    "TelemetryEnabled": false,
+    "TelemetryUrl": "",
+    "TelemetryApiKey": ""
+}
